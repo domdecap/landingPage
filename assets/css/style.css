@@ -1,0 +1,31 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+}
+
+header {
+    padding: 1em;
+    background-color: green;
+}
+
+footer {
+    padding: 2em;
+    text-align: center;
+    background-color: green;
+
+}
+
+ul {
+    text-align: right;
+}
+
+li {
+    display: inline;
+}
